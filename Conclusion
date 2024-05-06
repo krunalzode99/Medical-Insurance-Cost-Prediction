@@ -1,0 +1,18 @@
+# Conclusion
+## Primary Factors Influencing Medical Expenses:
+Smoking, Age, & BMI
+
+## Accuracy of Machine Learning Models in Predicting Medical Expenses:
+linear regression
+decision trees
+Support Vector Regression
+Gradient Boosting
+K-Nearest Neighbors
+neural networks
+
+## Enhancing Efficiency and Profitability of Health Insurance Companies with Machine Learning:
+Risk Assessment: ML models can identify at-risk individuals, allowing insurers to allocate resources effectively.
+Predictive Analytics: ML predicts future healthcare trends, aiding strategic planning.
+Cost Control: Accurate predictions help insurers manage costs and pricing.
+
+## In summary, machine learning can revolutionize health insurance by improving risk assessment, efficiency, and customer experience. The highest score was a R2 of 88%.
