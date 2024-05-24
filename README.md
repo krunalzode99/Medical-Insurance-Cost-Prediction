@@ -7,4 +7,6 @@ The dataset comprises 2.7K rows and 7 columns, including:
 
 ## Age Sex BMI (Body Mass Index) Children Smoker Region Charges Problem Statement:
 
-## What are the primary factors influencing medical expenses? How accurate are machine learning models in predicting medical expenses? In what ways can machine learning models enhance the efficiency and profitability of health insurance companies?
+## What are the primary factors influencing medical expenses? 
+## How accurate are machine learning models in predicting medical expenses?
+## In what ways can machine learning models enhance the efficiency and profitability of health insurance companies?
